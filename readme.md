@@ -6,6 +6,8 @@
 
 > This line has been added in GitHub to test the functionality of Git CLI pull requests.
 
+> This line has been added to test conflict resolution in the Git CLI.
+
 > Thanks for checking in; for more information, get me on moghog@icloud.com.
 
 > - Hal
