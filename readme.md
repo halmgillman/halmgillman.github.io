@@ -4,6 +4,8 @@
 
 > This line has been added to test pushing and pulling.
 
+> This line has been added in GitHub to test the functionality of Git CLI pull requests.
+
 > Thanks for checking in; for more information, get me on moghog@icloud.com.
 
 > - Hal
